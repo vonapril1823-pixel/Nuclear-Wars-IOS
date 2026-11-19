@@ -3,10 +3,5 @@
   "appName": "Nuclear Wars",
   "webDir": "www",
   "backgroundColor": "#0c0820",
-  "ios": {
-    "contentInset": "never",
-    "scrollEnabled": false,
-    "allowsLinkPreview": false,
-    "backgroundColor": "#0c0820"
-  }
+  "ios": { "contentInset": "never", "scrollEnabled": false, "allowsLinkPreview": false }
 }

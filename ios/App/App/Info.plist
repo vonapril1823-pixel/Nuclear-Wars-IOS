@@ -20,14 +20,12 @@
 	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
-	<key>ITSAppUsesNonExemptEncryption</key>
-	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>The camera lets nearby phones connect directly for Versus matches and scans invite QR codes.</string>
+	<string>The camera is only used to scan a Versus invite QR code.</string>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>Nuclear Wars uses your local network to find and join Versus lobbies on the same Wi-Fi or hotspot.</string>
+	<string>Nuclear Wars uses your local network to find games hosted on the same Wi-Fi or hotspot and to play against nearby phones.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
